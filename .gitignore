@@ -1,0 +1,19 @@
+node_modules
+.next
+out
+build
+dist
+.env
+.env.local
+.env.*.local
+.DS_Store
+*.log
+.vercel
+next-env.d.ts
+
+# Internal planning doc — not for public repo
+SPEC.md
+
+# Claude Code per-machine permissions (don't leak environment paths)
+.claude/
+

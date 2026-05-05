@@ -1,0 +1,74 @@
+[
+  {
+    "slug": "jordan-1-retro-high",
+    "brand": "Nike",
+    "name": "Air Jordan 1 Retro High OG",
+    "colorway": "DZ5485-008",
+    "releaseYear": 2024,
+    "category": "Basketball",
+    "materials": "Premium leather upper, rubber cupsole, encapsulated Nike Air heel unit",
+    "description": "Tinker Hatfield and Peter Moore's 1985 silhouette, returned in OG construction. The high-cut leather Jordan 1 reads the way it always has — a basketball shoe that left the court and never came back.",
+    "image": "/shoes/jordan-1-retro-high.jpg",
+    "featured": true
+  },
+  {
+    "slug": "air-force-1-low",
+    "brand": "Nike",
+    "name": "Air Force 1 '07",
+    "colorway": "Triple White (DD7050-100)",
+    "releaseYear": 1982,
+    "category": "Lifestyle",
+    "materials": "Tumbled leather upper, perforated toe, encapsulated Air sole",
+    "description": "Bruce Kilgore's 1982 design, untouched and uncoloured. The Triple White Air Force 1 has outlived every trend it has been part of — a uniform piece for anyone who treats footwear as wardrobe rather than statement.",
+    "image": "/shoes/air-force-1-low.jpg",
+    "featured": true
+  },
+  {
+    "slug": "sb-dunk-low",
+    "brand": "Nike",
+    "name": "SB Dunk Low Pro",
+    "colorway": "CT2552-800",
+    "releaseYear": 2020,
+    "category": "Skateboarding",
+    "materials": "Leather and suede overlays, padded tongue, vulcanised Zoom Air sole",
+    "description": "The Dunk reframed for skateboarding by Nike SB — beefier tongue, Zoom Air insole, and the colour-blocking that turned each release into a dated artefact. Built for board feel, worn for everything else.",
+    "image": "/shoes/sb-dunk-low.jpg",
+    "featured": true
+  },
+  {
+    "slug": "nb-1906a",
+    "brand": "New Balance",
+    "name": "1906A",
+    "colorway": "U1906AB",
+    "releaseYear": 2024,
+    "category": "Lifestyle",
+    "materials": "Mesh and synthetic upper, ABZORB and Stability Web cushioning",
+    "description": "Pulled from New Balance's late-90s / early-2000s tech-runner archive and re-cut for 2024. The 1906A keeps the layered overlays and ABZORB platform of its predecessors, in a cleaner, more wearable colour story.",
+    "image": "/shoes/nb-1906a.png",
+    "featured": true
+  },
+  {
+    "slug": "yeezy-350-v2",
+    "brand": "Adidas",
+    "name": "Yeezy Boost 350 V2",
+    "colorway": "B37572",
+    "releaseYear": 2018,
+    "category": "Lifestyle",
+    "materials": "Primeknit upper, full-length Boost midsole, translucent rubber outsole",
+    "description": "The runner-meets-sock that closed out the 2010s sneaker boom. Primeknit upper, full-length Boost, and the SPLY-350 stripe that made it one of the most recognisable silhouettes of its decade.",
+    "image": "/shoes/yeezy-350-v2.jpeg",
+    "featured": true
+  },
+  {
+    "slug": "gel-nyc",
+    "brand": "ASICS",
+    "name": "GEL-NYC",
+    "colorway": "Cream / Birch (1201A789-103)",
+    "releaseYear": 2023,
+    "category": "Running",
+    "materials": "Mesh and synthetic upper, GEL cushioning, dual-density EVA midsole",
+    "description": "ASICS' modern hybrid — a NYC Marathon-inspired silhouette stitched from GEL-NIMBUS 3 and GEL-MC PLUS V DNA. Off-white mesh, soft suede overlays, and the GEL pocket that turns a runner into an everyday piece.",
+    "image": "/shoes/gel-nyc.jpg",
+    "featured": true
+  }
+]
