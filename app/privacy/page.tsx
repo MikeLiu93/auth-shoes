@@ -29,8 +29,8 @@ export default function PrivacyPage() {
         </h2>
         <p>
           This Privacy Policy explains how <strong>AUTH SHOES PTY LTD</strong>{" "}
-          (ABN 37 694 216 950), a company registered in Australia at 47
-          Maranoa St, Kaleen, ACT 2617 (&ldquo;AUTH SHOES&rdquo;,{" "}
+          (ABN 37 694 216 950), a company registered in Australia at 30
+          Fitzhardinge Cres, Evatt, ACT 2617 (&ldquo;AUTH SHOES&rdquo;,{" "}
           &ldquo;we&rdquo;, &ldquo;us&rdquo; or &ldquo;our&rdquo;), handles
           personal information collected through this website and through the
           services we operate that integrate with third-party platforms such as
@@ -102,6 +102,34 @@ export default function PrivacyPage() {
         </p>
 
         <h2 className="font-display uppercase tracking-tightest text-2xl md:text-3xl pt-4">
+          Compliance with eBay Marketplace Account Deletion notifications
+        </h2>
+        <p>
+          Where the eBay platform issues a Marketplace Account Deletion or
+          Account Closure notification for a user whose data we hold through
+          the eBay Developer API, we comply fully with eBay&rsquo;s published
+          policy. We operate a dedicated HTTPS webhook endpoint that is
+          subscribed to these notifications, validates each incoming
+          notification against eBay&rsquo;s challenge-code mechanism on
+          initial registration, and verifies the authenticity of subsequent
+          notifications against eBay&rsquo;s published public keys before
+          processing.
+        </p>
+        <p>
+          Upon receipt of a valid Marketplace Account Deletion notification,
+          we permanently and irrevocably delete all personal data associated
+          with the affected user &mdash; including buyer username, shipping
+          address, message history, and any order metadata containing
+          personal identifiers &mdash; from our production database,
+          application logs, and backups, within thirty (30) days of receipt.
+          Each notification, the deletion actions taken, and the time of
+          completion are recorded in our immutable audit log for compliance
+          review. We do not retain any personal identifier of the affected
+          user beyond what is technically necessary to complete and verify
+          the deletion process itself.
+        </p>
+
+        <h2 className="font-display uppercase tracking-tightest text-2xl md:text-3xl pt-4">
           How we share information
         </h2>
         <p>
@@ -152,10 +180,10 @@ export default function PrivacyPage() {
           out-of-date, and to request deletion of personal information that we
           are no longer required to retain. Requests can be sent to{" "}
           <a
-            href="mailto:hello@acecareer.com.au"
+            href="mailto:zhuoran@authshoes.com.au"
             className="underline underline-offset-4 hover:text-accent"
           >
-            hello@acecareer.com.au
+            zhuoran@authshoes.com.au
           </a>
           . If you believe we have not handled your information in accordance
           with the Australian Privacy Principles, you may lodge a complaint
@@ -215,13 +243,13 @@ export default function PrivacyPage() {
           <br />
           Email:{" "}
           <a
-            href="mailto:hello@acecareer.com.au"
+            href="mailto:zhuoran@authshoes.com.au"
             className="underline underline-offset-4 hover:text-accent"
           >
-            hello@acecareer.com.au
+            zhuoran@authshoes.com.au
           </a>
           <br />
-          Post: 47 Maranoa St, Kaleen, ACT 2617, Australia
+          Post: 30 Fitzhardinge Cres, Evatt, ACT 2617, Australia
         </p>
       </div>
     </article>

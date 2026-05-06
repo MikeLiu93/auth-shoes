@@ -141,12 +141,12 @@ export default function TermsPage() {
         <p>
           Questions about these Terms can be sent to{" "}
           <a
-            href="mailto:hello@acecareer.com.au"
+            href="mailto:zhuoran@authshoes.com.au"
             className="underline underline-offset-4 hover:text-accent"
           >
-            hello@acecareer.com.au
+            zhuoran@authshoes.com.au
           </a>
-          , or by post to AUTH SHOES PTY LTD, 47 Maranoa St, Kaleen, ACT 2617,
+          , or by post to AUTH SHOES PTY LTD, 30 Fitzhardinge Cres, Evatt, ACT 2617,
           Australia.
         </p>
       </div>

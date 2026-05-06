@@ -22,7 +22,7 @@ export const metadata: Metadata = {
   title: "AUTH SHOES — Authentic Sneakers, Curated in Canberra",
   description:
     "AUTH SHOES PTY LTD is a Canberra-based sneaker curation studio. Authentic, verified, archived.",
-  metadataBase: new URL("https://auth-shoes.vercel.app"),
+  metadataBase: new URL("https://authshoes.com.au"),
 };
 
 export default function RootLayout({

@@ -65,17 +65,17 @@ export default function Footer() {
             <br />
             ABN 37 694 216 950
             <br />
-            47 Maranoa St,
+            30 Fitzhardinge Cres,
             <br />
-            Kaleen, ACT 2617
+            Evatt, ACT 2617
             <br />
             Australia
             <br />
             <a
-              href="mailto:hello@acecareer.com.au"
+              href="mailto:zhuoran@authshoes.com.au"
               className="mt-2 inline-block hover:text-accent transition-colors"
             >
-              hello@acecareer.com.au
+              zhuoran@authshoes.com.au
             </a>
           </address>
         </div>

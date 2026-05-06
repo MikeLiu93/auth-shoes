@@ -24,10 +24,10 @@ export default function ContactPage() {
             Email
           </p>
           <a
-            href="mailto:hello@acecareer.com.au"
+            href="mailto:zhuoran@authshoes.com.au"
             className="font-display uppercase tracking-tightest text-3xl md:text-5xl leading-[0.95] hover:text-accent transition-colors break-all"
           >
-            hello@acecareer.com.au
+            zhuoran@authshoes.com.au
           </a>
 
           <p className="mt-10 text-base md:text-lg text-ink/85 leading-relaxed max-w-prose">
@@ -46,9 +46,9 @@ export default function ContactPage() {
             <span className="block font-semibold tracking-wide">
               AUTH SHOES PTY LTD
             </span>
-            47 Maranoa St
+            30 Fitzhardinge Cres
             <br />
-            Kaleen, ACT 2617
+            Evatt, ACT 2617
             <br />
             Australia
           </address>

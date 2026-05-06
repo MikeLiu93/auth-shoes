@@ -41,7 +41,7 @@ export default function AboutPage() {
           AUTH SHOES PTY LTD &middot; ABN 37 694 216 950
         </p>
         <p className="mt-1">
-          47 Maranoa St, Kaleen, ACT 2617, Australia
+          30 Fitzhardinge Cres, Evatt, ACT 2617, Australia
         </p>
       </footer>
     </article>

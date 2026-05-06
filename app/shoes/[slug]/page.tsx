@@ -104,7 +104,7 @@ export default function ShoeDetailPage({ params }: { params: Params }) {
           </dl>
 
           <a
-            href={`mailto:hello@acecareer.com.au?subject=${encodeURIComponent(
+            href={`mailto:zhuoran@authshoes.com.au?subject=${encodeURIComponent(
               `Enquiry — ${shoe.brand} ${shoe.name} (${shoe.colorway})`
             )}`}
             className="mt-10 inline-flex items-center justify-center w-full bg-ink text-paper px-6 py-5 text-xs tracking-[0.22em] uppercase hover:bg-accent transition-colors"
